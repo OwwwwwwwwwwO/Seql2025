@@ -1,6 +1,6 @@
 [Major Update]
 
-v19.5:
+1.0.1:
 - Re-Added Vinery
 - Re-Added Immersive Weathering
 
