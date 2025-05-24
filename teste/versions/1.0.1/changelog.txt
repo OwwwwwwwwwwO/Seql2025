@@ -1,44 +1,80 @@
-[Major Update]
-
-1.0.1:
-- Re-Added Vinery
-- Re-Added Immersive Weathering
-
-Performance Improvements / QoL Changes
-
-- Added Promenade (by Hugman_76)
-- Added [EMF] Entity Model Features [Fabric & Forge] (by traben_0)
-- Added Memory Settings[Forge/Fabric] (by someaddon)
-- Added Structory: Towers (by botanydev)
-- Added fix GPU memory leak[Forge/Fabric] (by someaddon)
-- Added FullStack Watchdog (by telepathicgrunt)
-- Added "Better End City" for Better End (by TheArchitects777)
-- Added When Dungeons Arise - No Flying Structures (by Aureljz)
-- Added When Dungeons Arise - Spacing Tweaks (by Aureljz)
-- Added Charm Woodcutter BYG (by DayIsGone)
-- Added Charm - Promenade Compat Datapack (by SplendidAlakey)
-- Added AdventureZ Netherite Fix (by MuonR)
-- Added Trinkets Offhand Glove Fix (by MuonR)
-- Added Farmer's Delight Tools Expanded (by MuonR)
-- Added Twilight Forest - Glacier Melt Fix (by MuonR)
-- Removed Farmer's Respite (Crashing)
-- Removed Decorative Blocks (Causes issues)
-- Fixed occasional crash when placing down Waystones (Fabric Waystones)
-- Many Fixes from [Let's Do] Meadow
-- Many Fixes from Better Statistics Screen
-- Many Fixes from Friends&Foes
-- Many Fixes from FTB Quests
-- Many Fixes from Galosphere
-- Many Fixes from ModernFix
-- Many Fixes from Moonlight
-- Many Fixes from Oh The Biomes You'll Go Refabricated
-- Many Fixes from Open Parties and Claims
-- Many Fixes from Supplementaries
-- Many Fixes from Xaero's
-- Many Fixes from Other Mods
-- Reduced the Mod Count
-- Updated all the Mods
-
-Reminder: Major Update so blocks/items will be removed
-
-AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
+Todos os mods da versão 1.0.0
+.connector
+3d-Skin-Layers
+Amendments
+Animal Feeding Trough
+AppleSkin
+Architectury
+Athena
+Balm
+Better Ping Display
+BetterF3
+Biomes O' Plenty
+Chat Heads
+Chipped
+Chocco's Mobs
+Cloth Config v15 API
+Collective
+Concentration
+Configured
+Continuity
+CorgiLib
+CraftPresence
+Create
+Cristel Lib
+Dynamic FPS
+Entity Model Features
+Entity Texture Features
+EntityCulling
+Euphoria Patcher
+FancyMenu
+Ferrite Core
+Forgified Fabric API
+Fowl Play
+GeckoLib 4
+GlitchCore
+Handcrafted
+ImmediatelyFast
+Inventory Profiles Next
+Iris
+Journeymap
+Just Enough Items
+Konkrete
+KryptonFoxified
+LanguageReload
+Lithium
+Lithostitched
+Melody
+MidnightLib
+Model Gap Fix
+ModernFix
+Modpack Update Checker
+Moonlight Lib
+Mouse Tweaks
+Nature's Spirit
+NetherPortalFix
+NotEnoughAnimations
+Oh The Biomes We've Gone
+Oh The Trees You'll Grow
+Polymorph
+Regions Unexplored
+Replanting Crops
+Resourceful Lib
+Ribbits
+Sodium
+Sound Physics Remastered
+Supplementaries
+TerraBlender
+Tom's Simple Storage Mod
+Towns and Towers
+UniLib
+YUNG's API
+YUNG's Better Dungeons
+YUNG's Better Jungle Temples
+YUNG's Better Mineshafts
+YUNG's Better Ocean Monuments
+YUNG's Better Witch Huts
+YetAnotherConfigLib
+connector-2.0.0-beta.8+1.21.1-full
+kotlinforforge-5.8.0-all
+libIPN
