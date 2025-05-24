@@ -1,80 +1,80 @@
 Todos os mods da versão 1.0.0
-.connector
-3d-Skin-Layers
-Amendments
-Animal Feeding Trough
-AppleSkin
-Architectury
-Athena
-Balm
-Better Ping Display
-BetterF3
-Biomes O' Plenty
-Chat Heads
-Chipped
-Chocco's Mobs
-Cloth Config v15 API
-Collective
-Concentration
-Configured
-Continuity
-CorgiLib
-CraftPresence
-Create
-Cristel Lib
-Dynamic FPS
-Entity Model Features
-Entity Texture Features
-EntityCulling
-Euphoria Patcher
-FancyMenu
-Ferrite Core
-Forgified Fabric API
-Fowl Play
-GeckoLib 4
-GlitchCore
-Handcrafted
-ImmediatelyFast
-Inventory Profiles Next
-Iris
-Journeymap
-Just Enough Items
-Konkrete
-KryptonFoxified
-LanguageReload
-Lithium
-Lithostitched
-Melody
-MidnightLib
-Model Gap Fix
-ModernFix
-Modpack Update Checker
-Moonlight Lib
-Mouse Tweaks
-Nature's Spirit
-NetherPortalFix
-NotEnoughAnimations
-Oh The Biomes We've Gone
-Oh The Trees You'll Grow
-Polymorph
-Regions Unexplored
-Replanting Crops
-Resourceful Lib
-Ribbits
-Sodium
-Sound Physics Remastered
-Supplementaries
-TerraBlender
-Tom's Simple Storage Mod
-Towns and Towers
-UniLib
-YUNG's API
-YUNG's Better Dungeons
-YUNG's Better Jungle Temples
-YUNG's Better Mineshafts
-YUNG's Better Ocean Monuments
-YUNG's Better Witch Huts
-YetAnotherConfigLib
-connector-2.0.0-beta.8+1.21.1-full
-kotlinforforge-5.8.0-all
-libIPN
+- .connector  
+- 3d-Skin-Layers  
+- Amendments  
+- Animal Feeding Trough  
+- AppleSkin  
+- Architectury  
+- Athena  
+- Balm  
+- Better Ping Display  
+- BetterF3  
+- Biomes O' Plenty  
+- Chat Heads  
+- Chipped  
+- Chocco's Mobs  
+- Cloth Config v15 API  
+- Collective  
+- Concentration  
+- Configured  
+- Continuity  
+- CorgiLib  
+- CraftPresence  
+- Create  
+- Cristel Lib  
+- Dynamic FPS  
+- Entity Model Features  
+- Entity Texture Features  
+- EntityCulling  
+- Euphoria Patcher  
+- FancyMenu  
+- Ferrite Core  
+- Forgified Fabric API  
+- Fowl Play  
+- GeckoLib 4  
+- GlitchCore  
+- Handcrafted  
+- ImmediatelyFast  
+- Inventory Profiles Next  
+- Iris  
+- Journeymap  
+- Just Enough Items  
+- Konkrete  
+- KryptonFoxified  
+- LanguageReload  
+- Lithium  
+- Lithostitched  
+- Melody  
+- MidnightLib  
+- Model Gap Fix  
+- ModernFix  
+- Modpack Update Checker  
+- Moonlight Lib  
+- Mouse Tweaks  
+- Nature's Spirit  
+- NetherPortalFix  
+- NotEnoughAnimations  
+- Oh The Biomes We've Gone  
+- Oh The Trees You'll Grow  
+- Polymorph  
+- Regions Unexplored  
+- Replanting Crops  
+- Resourceful Lib  
+- Ribbits  
+- Sodium  
+- Sound Physics Remastered  
+- Supplementaries  
+- TerraBlender  
+- Tom's Simple Storage Mod  
+- Towns and Towers  
+- UniLib  
+- YUNG's API  
+- YUNG's Better Dungeons  
+- YUNG's Better Jungle Temples  
+- YUNG's Better Mineshafts  
+- YUNG's Better Ocean Monuments  
+- YUNG's Better Witch Huts  
+- YetAnotherConfigLib  
+- connector-2.0.0-beta.8+1.21.1-full  
+- kotlinforforge-5.8.0-all  
+- libIPN  
