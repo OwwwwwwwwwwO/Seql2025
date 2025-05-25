@@ -5,11 +5,11 @@
     {
       "id": "1.0.0",
       "releasedAt": 1748122557628,
-        "promotions": {
-            "downloads": {
-                "generic": "https://discord.com/channels/237285740730384385/1211852973391740970"
-            }
+      "promotions": {
+        "downloads": {
+          "generic": "https://discord.com/channels/237285740730384385/1211852973391740970"
         }
+      }
     }
-]
+  ]
 }
