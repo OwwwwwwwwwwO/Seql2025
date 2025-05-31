@@ -7,7 +7,7 @@
       "releasedAt": 1748122557628,
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/OwwwwwwwwwwO/Seql2025/raw/main/Seql2025.zip"
+          "generic": "https://github.com/OwwwwwwwwwwO/Seql2025/raw/refs/heads/main/Seql2025.zip"
         }
       }
     },
@@ -16,7 +16,7 @@
       "releasedAt": 1748302341584,
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/OwwwwwwwwwwO/Seql2025/raw/main/Seql2025.zip"
+          "generic": "https://github.com/OwwwwwwwwwwO/Seql2025/raw/refs/heads/main/Seql2025.zip"
         }
       }
     },
@@ -25,16 +25,7 @@
       "releasedAt": 1748319491134,
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/OwwwwwwwwwwO/Seql2025/raw/main/Seql2025.zip"
-        }
-      }
-    },
-    {
-      "id": "1.0.3",
-      "releasedAt": 1748724257797,
-      "promotions": {
-        "downloads": {
-          "generic": "https://github.com/OwwwwwwwwwwO/Seql2025/raw/main/Seql2025.zip"
+          "generic": "https://github.com/OwwwwwwwwwwO/Seql2025/raw/refs/heads/main/Seql2025.zip"
         }
       }
     }
